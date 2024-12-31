@@ -44,11 +44,6 @@ Abaixo está um exemplo de como o script funciona:
 
 ![Exemplo de Execução](img/exec.png)
 
-> **Nota**: Certifique-se de ter um backup dos seus arquivos antes de executar o script, pois ele encripta os dados.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
